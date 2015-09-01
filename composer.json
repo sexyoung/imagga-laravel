@@ -1,0 +1,21 @@
+{
+ "name": "sexyoung/imagga-laravel",
+ "keywords": ["framework", "laravel", "imagga"],
+ "license": "MIT",
+ "authors": [
+ {
+ "name": "寫詩羊",
+ "email": "Habuche@gmail.com"
+ }
+ ],
+   "minimum-stability": "dev",
+   "require": {
+   "php": ">=5.4.0",
+   "laravel/framework": "5.1.*"
+ },
+   "autoload": {
+     "psr-4": {
+       "Sexyoung\\ImaggaLaravel\\": "src/Imagga-php/"
+     }
+   }
+}
