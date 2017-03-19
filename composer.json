@@ -8,10 +8,10 @@
  "email": "Habuche@gmail.com"
  }
  ],
-   "minimum-stability": "dev",
+   "minimum-stability": "stable",
    "require": {
    "php": ">=5.4.0",
-   "laravel/framework": "5.1.*"
+   "laravel/framework": ">=5.1.*"
  },
    "autoload": {
      "psr-4": {
